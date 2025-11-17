@@ -7,6 +7,16 @@ I designed this program primarily as a proof of concept for dynamically managing
 
 Although most of the work for this project was done on the backend, I did design a rudimentary POS system for the Python terminal.
 
+# Key Concepts
+* Proper usage of pointers and references
+* JSON file IO
+* Input validation
+* Dealing with memory limitations
+* OOP relationships like composition and inheritance
+* Exception handling
+* UI development
+
+
 # How to Run
 * Reload CMakeLists.txt
 * compile
@@ -16,5 +26,6 @@ Although most of the work for this project was done on the backend, I did design
 
 # Sources
 * https://json.nlohmann.me
+
 
 
