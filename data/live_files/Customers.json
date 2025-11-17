@@ -1,0 +1,12 @@
+[
+    {
+        "credit": 0,
+        "customerId": 1,
+        "firstName": "Jonas",
+        "lastName": "Hemmett",
+        "phoneNumber": "18023631111",
+        "transactions": [
+            1
+        ]
+    }
+]
